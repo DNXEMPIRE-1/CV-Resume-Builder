@@ -1,10 +1,19 @@
-# CV-Resume-Builder
-A Java based application developed to help you build a professional, fully formatted CV and Resume in various design formats.
+# CV-Resume-Builder 📄💼
 
-#### For more information regarding the project, please visit [Project_Report](https://github.com/meetakbari/CV-Resume-Builder/blob/master/Project_Report.pdf) presentation file available in the repository.
+CV-Resume-Builder is a Java-based application developed to help you build a professional, fully formatted CV and Resume in various design formats.
 
+## Features
 
-## Contributors
-[![](https://avatars1.githubusercontent.com/u/56075605?s=50&u=bf99d5c66a0749903135b279cf00e8ecf0e26d77&v=4)](https://github.com/meetakbari)
-[![](https://avatars0.githubusercontent.com/u/55320599?s=50&v=4)](https://github.com/MayankkumarTank)
+- **User-Friendly Interface:**
+  - Intuitive design for easy navigation and use.
+
+- **Multiple Design Formats:**
+  - Choose from a variety of pre-designed templates for your CV or resume.
+
+- **Customization:**
+  - Personalize your CV with details such as personal information, work experience, education, skills, and more.
+
+- **Export Options:**
+  - Export your CV or resume in different formats, including PDF and Word.
+
 
